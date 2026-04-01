@@ -24,5 +24,3 @@
 * **비즈니스 혁신:** 데이터 기반 선제적 제안으로 계약 성사율 **30% 이상 증가**.
 
 <img width="6000" height="3375" alt="image" src="https://github.com/user-attachments/assets/8d1c08c4-5360-42e4-8198-34d3af15138f" />
-[![CeleFix Project Overview](https://github.com/joyfulond/Celefix/raw/main/screenshot.png)](https://youtube.com/your-video-link)
-[DX 12조 개발코드.zip](https://github.com/user-attachments/files/26418470/DX.12.zip)
